@@ -1,0 +1,3736 @@
+[
+  {
+    "Timestamp": "2026-11-10T13:43:14.2940271+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 23,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "57f3c6bd24597738e730fa2f",
+      "Name": "PP-91-01 \u201EKedr-B\u201C 9x18mm PM Maschinenpistole",
+      "CaliberId": "573719df2459775a626ccbc2",
+      "Caliber": "9x18mm PM PBM gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "56d59d3ad2720bdb418b4577",
+      "Caliber": "9x19mm Pst gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:43:14.2830931+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 28,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "606587252535c57a13424cfd",
+      "Name": "CMMG Mk47 Mutant 7,62x39mm Sturmgewehr",
+      "CaliberId": "59e4cf5286f7741778269d8a",
+      "Caliber": "7,62x39mm T-45M1 gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "56d59d3ad2720bdb418b4577",
+      "Caliber": "9x19mm Pst gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:43:14.27148+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 37,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "606587252535c57a13424cfd",
+      "Name": "CMMG Mk47 Mutant 7,62x39mm Sturmgewehr",
+      "CaliberId": "59e0d99486f7744a32234762",
+      "Caliber": "7,62x39mm BP gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:43:14.2601137+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 36,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "606587252535c57a13424cfd",
+      "Name": "CMMG Mk47 Mutant 7,62x39mm Sturmgewehr",
+      "CaliberId": "5656d7c34bdc2d9d198b4587",
+      "Caliber": "7,62x39mm PS gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:43:14.249002+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 24,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "5c0d5e4486f77478390952fe",
+      "Caliber": "5,45x39mm PPBS gs \u0022Igolnik\u0022"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f4708ca9c4381d16cd9d",
+      "Caliber": "9x21mm 7N42 \u0022Zubilo\u0022"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:43:14.2375276+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 50,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "606587252535c57a13424cfd",
+      "Name": "CMMG Mk47 Mutant 7,62x39mm Sturmgewehr",
+      "CaliberId": "601aa3d2b2bcb34913271e6d",
+      "Caliber": "7,62x39mm MAI AP"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "56d59d3ad2720bdb418b4577",
+      "Caliber": "9x19mm Pst gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:43:14.2263962+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 40,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "5c0d5e4486f77478390952fe",
+      "Caliber": "5,45x39mm PPBS gs \u0022Igolnik\u0022"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "5a3c16fe86f77452b62de32a",
+      "Caliber": "9x19mm Luger CCI"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:43:14.2154444+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 49,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "606587252535c57a13424cfd",
+      "Name": "CMMG Mk47 Mutant 7,62x39mm Sturmgewehr",
+      "CaliberId": "59e0d99486f7744a32234762",
+      "Caliber": "7,62x39mm BP gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:43:14.2031198+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 58,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5926bb2186f7744b1c6c6e60",
+      "Name": "HK MP5 9x19mm Maschinenpistole (Navy-Version)",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "5c0d56a986f774449d5de529",
+      "Caliber": "9x19mm RIP"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:43:14.1673501+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 31,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:58.6609512+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 42,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "606587252535c57a13424cfd",
+      "Name": "CMMG Mk47 Mutant 7,62x39mm Sturmgewehr",
+      "CaliberId": "64b7af434b75259c590fa893",
+      "Caliber": "7,62x39mm PP gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:58.650581+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 29,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:58.6388533+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 56,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 3,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "5c0d56a986f774449d5de529",
+      "Caliber": "9x19mm RIP"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:58.6271719+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 40,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "5efb0da7a29a85116f6ea05f",
+      "Caliber": "9x19mm PBP gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:58.6156364+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 24,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5926bb2186f7744b1c6c6e60",
+      "Name": "HK MP5 9x19mm Maschinenpistole (Navy-Version)",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:58.6058988+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 34,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff2ced2720bb4668b4567",
+      "Caliber": "5,45x39mm PP gs"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:58.5960259+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 58,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dfef82d2720bbd668b4567",
+      "Caliber": "5,45x39mm BP gs"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "5efb0da7a29a85116f6ea05f",
+      "Caliber": "9x19mm PBP gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:58.5854016+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 37,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "56d59d3ad2720bdb418b4577",
+      "Caliber": "9x19mm Pst gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:58.5749074+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 37,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5926bb2186f7744b1c6c6e60",
+      "Name": "HK MP5 9x19mm Maschinenpistole (Navy-Version)",
+      "CaliberId": "56d59d3ad2720bdb418b4577",
+      "Caliber": "9x19mm Pst gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:58.5627321+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 2,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 14,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "5c0d56a986f774449d5de529",
+      "Caliber": "9x19mm RIP"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f4708ca9c4381d16cd9d",
+      "Caliber": "9x21mm 7N42 \u0022Zubilo\u0022"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.6561179+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0427\u0451\u0442\u043A\u0438\u0439",
+    "Level": 55,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 3,
+    "Primary": {
+      "Id": "5d43021ca4b9362eab4b5e25",
+      "Name": "Lone Star TX-15 DML 5,56x45mm Karabiner",
+      "CaliberId": "601949593ae8f707c4608daa",
+      "Caliber": "5,56x45mm SSA AP"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5b432d215acfc4771e1c6624",
+      "Name": "LShZ leichter Helm (Olivgr\u00FCn)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5b432b965acfc47a8774094e",
+      "Name": "GSSh-01 Aktive Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5e9dacf986f774054d6b89f4",
+      "Name": "FORT Defender-2 Schutzweste",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.6385893+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0428\u043C\u044B\u0433\u0430",
+    "Level": 49,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "63171672192e68c5460cebc5",
+      "Name": "Steyr AUG A3 5,56x45mm Sturmgewehr",
+      "CaliberId": "54527ac44bdc2d36668b4567",
+      "Caliber": "5,56x45mm M855A1"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "5e81c3cbac2bb513793cdc75",
+      "Name": "Colt M1911A1 .45 ACP Pistole",
+      "CaliberId": "5efb0d4f4bc50b58e81710f3",
+      "Caliber": ".45 ACP Lasermatch FMJ"
+    },
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5b40e4035acfc47a87740943",
+      "Name": "HighCom Striker ACHHC IIIA helmet (Olive Drab)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5c165d832e2216398b5a7e36",
+      "Name": "Peltor Tactical Sport Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "628d0618d1ba6e4fa07ce5a4",
+      "Name": "NPP KlASS Bagariy Platten-Tragesystem (Digitalflora)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 4,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.6250964+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041A\u043E\u0449\u0435\u0439",
+    "Level": 39,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5aafa857e5b5b00018480968",
+      "Name": "Springfield Armory M1A 7,62x51mm Gewehr",
+      "CaliberId": "5a608bf24f39f98ffc77720e",
+      "Caliber": "7,62x51mm M62 Tracer"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26fc7245977162a14b800",
+      "Name": "Bars A-2607 95Kh18 Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5b40e3f35acfc40016388218",
+      "Name": "HighCom Striker ACHHC IIIA helmet (Black)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5aa2ba71e5b5b000137b758f",
+      "Name": "MSA SSordin Supreme PRO-X/L Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5e9dacf986f774054d6b89f4",
+      "Name": "FORT Defender-2 Schutzweste",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 5,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.6100342+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041E\u043B\u0438\u0432\u044C\u0435",
+    "Level": 35,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5b0bbe4e5acfc40dc528a72d",
+      "Name": "DS Arms SA-58 7,62x51mm Sturmgewehr",
+      "CaliberId": "5a608bf24f39f98ffc77720e",
+      "Caliber": "7,62x51mm M62 Tracer"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "54491bb74bdc2d09088b4567",
+      "Name": "ER FULCRUM-Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5ea17ca01412a1425304d1c0",
+      "Name": "Diamond Age Bastion Helm (Schwarz)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5aa2ba71e5b5b000137b758f",
+      "Name": "MSA SSordin Supreme PRO-X/L Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "61bc85697113f767765c7fe7",
+      "Name": "Eagle Industries MMAC plate carrier (Ranger Green)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 3,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.5933532+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0410\u043D\u0434\u0440\u044E\u0448\u0430",
+    "Level": 28,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "6184055050224f204c1da540",
+      "Name": "FN SCAR-L 5,56x45mm Sturmgewehr",
+      "CaliberId": "54527a984bdc2d4e668b4567",
+      "Caliber": "5,56x45mm M855"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5e4bfc1586f774264f7582d3",
+      "Name": "MSA Gallet TC 800 High Cut Kampfhelm (Schwarz)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5c165d832e2216398b5a7e36",
+      "Name": "Peltor Tactical Sport Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5f5f41476bdad616ad46d631",
+      "Name": "NPP KlASS Korund-VM Schutzweste (Schwarz)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 5,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.5733472+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0428\u043D\u044B\u0440\u044C",
+    "Level": 43,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5df24cf80dee1b22f862e9bc",
+      "Name": "ORSIS T-5000M 7,62x51mm Repetier-Scharfsch\u00FCtzengewehr",
+      "CaliberId": "58dd3ad986f77403051cba8f",
+      "Caliber": "7,62x51mm M80"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "56d59856d2720bd8418b456a",
+      "Name": "SIG P226R 9x19mm Pistole",
+      "CaliberId": "5efb0e16aeb21837e749c7ff",
+      "Caliber": "9x19mm QuakeMaker"
+    },
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5b40e2bc5acfc40016388216",
+      "Name": "HighCom Striker ULACH IIIA helmet (Desert Tan)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5645bcc04bdc2d363b8b4572",
+      "Name": "Peltor ComTac 2 Kopfh\u00F6rer (Olivgr\u00FCn)"
+    },
+    "Armor": {
+      "Id": "64be79e2bf8412471d0d9bcc",
+      "Name": "NPP KlASS Kora-Kulon Schutzweste (Digitalflora)",
+      "FrontPlateClass": null,
+      "BackPlateClass": null,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.5589374+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041B\u043E\u0433\u0430\u043D",
+    "Level": 50,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5fbcc1d9016cce60e8341ab3",
+      "Name": "SIG MCX .300 Blackout Sturmgewehr",
+      "CaliberId": "6196365d58ef8c428c287da1",
+      "Caliber": ".300 Whisper"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26fc7245977162a14b800",
+      "Name": "Bars A-2607 95Kh18 Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "65719f0775149d62ce0a670b",
+      "Name": "NPP KlASS Tor-2 Helm (Olivgr\u00FCn)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5c165d832e2216398b5a7e36",
+      "Name": "Peltor Tactical Sport Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "64a536392d2c4e6e970f4121",
+      "Name": "WARTECH TV-115 Platten-Tragesystem (Olivgr\u00FCn)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.5392315+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041A\u0443\u043B\u0451\u043A",
+    "Level": 56,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5b0bbe4e5acfc40dc528a72d",
+      "Name": "DS Arms SA-58 7,62x51mm Sturmgewehr",
+      "CaliberId": "58dd3ad986f77403051cba8f",
+      "Caliber": "7,62x51mm M80"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "5d67abc1a4b93614ec50137f",
+      "Name": "FN Five-seveN MK2 5,7x28mm Pistole (FDE)",
+      "CaliberId": "5cc80f38e4a949001152b560",
+      "Caliber": "5,7x28mm SS190"
+    },
+    "Melee": {
+      "Id": "54491bb74bdc2d09088b4567",
+      "Name": "ER FULCRUM-Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5d5e9c74a4b9364855191c40",
+      "Name": "MSA ACH TC-2002 MICH Series helmet (Olive Drab)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5c165d832e2216398b5a7e36",
+      "Name": "Peltor Tactical Sport Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5b44d0de86f774503d30cba8",
+      "Name": "IOTV Gen4 body armor (High Mobility Kit, MultiCam)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 5,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.5188582+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0410\u043D\u0438\u043C\u0435\u0448\u043D\u0438\u043A",
+    "Level": 35,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "618428466ef05c2ce828f218",
+      "Name": "FN SCAR-L 5,56x45mm Sturmgewehr (FDE)",
+      "CaliberId": "54527ac44bdc2d36668b4567",
+      "Caliber": "5,56x45mm M855A1"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "5d67abc1a4b93614ec50137f",
+      "Name": "FN Five-seveN MK2 5,7x28mm Pistole (FDE)",
+      "CaliberId": "5cc80f67e4a949035e43bbba",
+      "Caliber": "5,7x28mm SB193"
+    },
+    "Melee": {
+      "Id": "5bffdc370db834001d23eca8",
+      "Name": "6Kh5 Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5f60b34a41e30a4ab12a6947",
+      "Name": "Galvion Caiman Hybrid helmet (Grey)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5aa2ba71e5b5b000137b758f",
+      "Name": "MSA SSordin Supreme PRO-X/L Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5e4ac41886f77406a511c9a8",
+      "Name": "Ars Arma CPC MOD.1 Plattentr\u00E4ger (A-TACS FG)",
+      "FrontPlateClass": null,
+      "BackPlateClass": null,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.4960333+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041A\u043E\u0441\u043C\u043E\u043D\u0430\u0432\u0442",
+    "Level": 40,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5ac4cd105acfc40016339859",
+      "Name": "Kalashnikov AK-74M 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff2ced2720bb4668b4567",
+      "Caliber": "5,45x39mm PP gs"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "5d3eb3b0a4b93615055e84d2",
+      "Name": "FN Five-seveN MK2 5,7x28mm Pistole",
+      "CaliberId": "5cc80f67e4a949035e43bbba",
+      "Caliber": "5,7x28mm SB193"
+    },
+    "Melee": {
+      "Id": "5bffdc370db834001d23eca8",
+      "Name": "6Kh5 Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5f60b34a41e30a4ab12a6947",
+      "Name": "Galvion Caiman Hybrid helmet (Grey)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5b432b965acfc47a8774094e",
+      "Name": "GSSh-01 Aktive Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5ca2151486f774244a3b8d30",
+      "Name": "FORT Redut-M Schutzweste",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 5,
+      "LeftPlateClass": 5,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.48378+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u042F\u0440\u0438\u043A",
+    "Level": 44,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "606587252535c57a13424cfd",
+      "Name": "CMMG Mk47 Mutant 7,62x39mm Sturmgewehr",
+      "CaliberId": "64b7af434b75259c590fa893",
+      "Caliber": "7,62x39mm PP gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "65709d2d21b9f815e208ff95",
+      "Name": "Diamond Age NeoSteel High Cut Helm (Schwarz)"
+    },
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "6038b4b292ec1c3103795a0b",
+      "Name": "LBT-6094A Slick Plate Carrier (Coyote Tan)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 5,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.4679604+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0413\u0430\u043C\u043B\u0435\u0442",
+    "Level": 27,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 4,
+    "Primary": {
+      "Id": "5dcbd56fdbd3d91b3e5468d5",
+      "Name": "Desert Tech MDR 7,62x51mm Sturmgewehr",
+      "CaliberId": "58dd3ad986f77403051cba8f",
+      "Caliber": "7,62x51mm M80"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5bc9c1e2d4351e00367fbcf0",
+      "Name": "Antikes Beil",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5a154d5cfcdbcb001a3b00da",
+      "Name": "Ops-Core FAST MT Super High Cut helmet (Black)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5c165d832e2216398b5a7e36",
+      "Name": "Peltor Tactical Sport Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5c0e655586f774045612eeb2",
+      "Name": "HighCom Trooper TFO body armor (MultiCam)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 3,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.4162088+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0414\u0435\u043C\u0435\u043D\u0442\u0438\u0439",
+    "Level": 44,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5bb2475ed4351e00853264e3",
+      "Name": "HK 416A5 5,56x45mm Sturmgewehr",
+      "CaliberId": "59e6906286f7746c9f75e847",
+      "Caliber": "5,56x45mm M856A1"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "5a7ae0c351dfba0017554310",
+      "Name": "Glock 17 9x19mm Pistole",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Melee": {
+      "Id": "5bffdc370db834001d23eca8",
+      "Name": "6Kh5 Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5b40e3f35acfc40016388218",
+      "Name": "HighCom Striker ACHHC IIIA helmet (Black)"
+    },
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "67ab2f94dafe3b22670c912c",
+      "Name": "HighCom Trooper TFO body armor (Coyote)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 3,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.4019547+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0411\u0430\u043B\u043A\u0430\u043D",
+    "Level": 42,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 3,
+    "Primary": {
+      "Id": "618428466ef05c2ce828f218",
+      "Name": "FN SCAR-L 5,56x45mm Sturmgewehr (FDE)",
+      "CaliberId": "59e690b686f7746c9f75e848",
+      "Caliber": "5,56x45mm M995"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5bc9c1e2d4351e00367fbcf0",
+      "Name": "Antikes Beil",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5f60b34a41e30a4ab12a6947",
+      "Name": "Galvion Caiman Hybrid helmet (Grey)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5aa2ba71e5b5b000137b758f",
+      "Name": "MSA SSordin Supreme PRO-X/L Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5e4abb5086f77406975c9342",
+      "Name": "LBT 6094A Slick Plattentr\u00E4ger (Schwarz)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.3871146+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041A\u0443\u043B\u0451\u043A",
+    "Level": 32,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5aafa857e5b5b00018480968",
+      "Name": "Springfield Armory M1A 7,62x51mm Gewehr",
+      "CaliberId": "58dd3ad986f77403051cba8f",
+      "Caliber": "7,62x51mm M80"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5bffdc370db834001d23eca8",
+      "Name": "6Kh5 Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "65709d2d21b9f815e208ff95",
+      "Name": "Diamond Age NeoSteel High Cut Helm (Schwarz)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5645bcc04bdc2d363b8b4572",
+      "Name": "Peltor ComTac 2 Kopfh\u00F6rer (Olivgr\u00FCn)"
+    },
+    "Armor": {
+      "Id": "63737f448b28897f2802b874",
+      "Name": "Hexatac HPC Plate Carrier (MultiCam Black)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 5,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.3757401+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 35,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "61962b617c6c7b169525f168",
+      "Caliber": "5,45x39mm 7N40"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.3640119+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 56,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff3afd2720bba668b4567",
+      "Caliber": "5,45x39mm PS gs"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "5c0d56a986f774449d5de529",
+      "Caliber": "9x19mm RIP"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.3513227+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 57,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5926bb2186f7744b1c6c6e60",
+      "Name": "HK MP5 9x19mm Maschinenpistole (Navy-Version)",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.3176903+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 30,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "5efb0e16aeb21837e749c7ff",
+      "Caliber": "9x19mm QuakeMaker"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.3058793+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 2,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 16,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff2ced2720bb4668b4567",
+      "Caliber": "5,45x39mm PP gs"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.2930471+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 2,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 16,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff026d2720bb8668b4567",
+      "Caliber": "5,45x39mm BS gs"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "56d59d3ad2720bdb418b4577",
+      "Caliber": "9x19mm Pst gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.2809026+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 2,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 17,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "56d59d3ad2720bdb418b4577",
+      "Caliber": "9x19mm Pst gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.267831+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 29,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff2ced2720bb4668b4567",
+      "Caliber": "5,45x39mm PP gs"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f4708ca9c4381d16cd9d",
+      "Caliber": "9x21mm 7N42 \u0022Zubilo\u0022"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.2556462+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 24,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff2ced2720bb4668b4567",
+      "Caliber": "5,45x39mm PP gs"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.2436092+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 28,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5926bb2186f7744b1c6c6e60",
+      "Name": "HK MP5 9x19mm Maschinenpistole (Navy-Version)",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.234692+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 7,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 74,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "574d967124597745970e7c94",
+      "Name": "TOZ Simonov SKS 7,62x39mm Karabiner",
+      "CaliberId": "64b7af434b75259c590fa893",
+      "Caliber": "7,62x39mm PP gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5e9dacf986f774054d6b89f4",
+      "Name": "FORT Defender-2 Schutzweste",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.2263002+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 50,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "59d6088586f774275f37482f",
+      "Name": "Kalashnikov \u0410\u041AM 7,62x39mm Sturmgewehr",
+      "CaliberId": "5656d7c34bdc2d9d198b4587",
+      "Caliber": "7,62x39mm PS gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5ab8e79e86f7742d8b372e78",
+      "Name": "BNTI Gzhel-K Schutzweste",
+      "FrontPlateClass": 3,
+      "BackPlateClass": 5,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.2169737+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 49,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "5efb0da7a29a85116f6ea05f",
+      "Caliber": "9x19mm PBP gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "628baf0b967de16aab5a4f36",
+      "Name": "LBT-1961A Load Bearing chest rig (Goons Edition)",
+      "FrontPlateClass": null,
+      "BackPlateClass": null,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.2076505+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 40,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "574d967124597745970e7c94",
+      "Name": "TOZ Simonov SKS 7,62x39mm Karabiner",
+      "CaliberId": "601aa3d2b2bcb34913271e6d",
+      "Caliber": "7,62x39mm MAI AP"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "628baf0b967de16aab5a4f36",
+      "Name": "LBT-1961A Load Bearing chest rig (Goons Edition)",
+      "FrontPlateClass": null,
+      "BackPlateClass": null,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.198329+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 33,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5ac66d9b5acfc4001633997a",
+      "Name": "Kalashnikov AK-105 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff061d2720bb5668b4567",
+      "Caliber": "5,45x39mm BT gs"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5f5f41f56760b4138443b352",
+      "Name": "Direct Action Thunderbolt kompaktes Tragesystem (Schattengrau)",
+      "FrontPlateClass": null,
+      "BackPlateClass": null,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.1892761+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 36,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 3,
+    "Primary": {
+      "Id": "59d6088586f774275f37482f",
+      "Name": "Kalashnikov \u0410\u041AM 7,62x39mm Sturmgewehr",
+      "CaliberId": "59e0d99486f7744a32234762",
+      "Caliber": "7,62x39mm BP gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5c0e655586f774045612eeb2",
+      "Name": "HighCom Trooper TFO body armor (MultiCam)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.1803785+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 42,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "59d6088586f774275f37482f",
+      "Name": "Kalashnikov \u0410\u041AM 7,62x39mm Sturmgewehr",
+      "CaliberId": "64b7af434b75259c590fa893",
+      "Caliber": "7,62x39mm PP gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "6038b4b292ec1c3103795a0b",
+      "Name": "LBT-6094A Slick Plate Carrier (Coyote Tan)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 3,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.1718461+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 35,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "574d967124597745970e7c94",
+      "Name": "TOZ Simonov SKS 7,62x39mm Karabiner",
+      "CaliberId": "601aa3d2b2bcb34913271e6d",
+      "Caliber": "7,62x39mm MAI AP"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "6038b4ca92ec1c3103795a0d",
+      "Name": "LBT-6094A Slick Plate Carrier (Olive Drab)",
+      "FrontPlateClass": null,
+      "BackPlateClass": 3,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.1157127+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 49,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "583990e32459771419544dd2",
+      "Name": "Kalashnikov AKS-74UN 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff2ced2720bb4668b4567",
+      "Caliber": "5,45x39mm PP gs"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5fd4c474dd870108a754b241",
+      "Name": "5.11 Tactical Hexgrid plate carrier",
+      "FrontPlateClass": null,
+      "BackPlateClass": null,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-10T13:42:15.1059289+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 40,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5beed0f50db834001c062b12",
+      "Name": "RPK-16 5,45x39mm leichtes Maschinengewehr",
+      "CaliberId": "56dff2ced2720bb4668b4567",
+      "Caliber": "5,45x39mm PP gs"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5e4abb5086f77406975c9342",
+      "Name": "LBT 6094A Slick Plattentr\u00E4ger (Schwarz)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.2131906+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 7,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041A\u0443\u043B\u0451\u043A",
+    "Level": 73,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5a367e5dc4a282000e49738f",
+      "Name": "Remington R11 RSASS 7,62x51mm Scharfsch\u00FCtzengewehr",
+      "CaliberId": "5a6086ea4f39f99cd479502f",
+      "Caliber": "7,62x51mm M61"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "5d67abc1a4b93614ec50137f",
+      "Name": "FN Five-seveN MK2 5,7x28mm Pistole (FDE)",
+      "CaliberId": "5cc80f38e4a949001152b560",
+      "Caliber": "5,7x28mm SS190"
+    },
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5b40e4035acfc47a87740943",
+      "Name": "HighCom Striker ACHHC IIIA helmet (Olive Drab)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5645bcc04bdc2d363b8b4572",
+      "Name": "Peltor ComTac 2 Kopfh\u00F6rer (Olivgr\u00FCn)"
+    },
+    "Armor": {
+      "Id": "5f5f41476bdad616ad46d631",
+      "Name": "NPP KlASS Korund-VM Schutzweste (Schwarz)",
+      "FrontPlateClass": 3,
+      "BackPlateClass": 4,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.1938912+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0410\u043D\u0434\u0440\u044E\u0448\u0430",
+    "Level": 55,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "59d6088586f774275f37482f",
+      "Name": "Kalashnikov \u0410\u041AM 7,62x39mm Sturmgewehr",
+      "CaliberId": "5656d7c34bdc2d9d198b4587",
+      "Caliber": "7,62x39mm PS gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "5cadc190ae921500103bb3b6",
+      "Name": "Beretta M9A3 9\u044519mm Pistole",
+      "CaliberId": "5c0d56a986f774449d5de529",
+      "Caliber": "9x19mm RIP"
+    },
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5b40e2bc5acfc40016388216",
+      "Name": "HighCom Striker ULACH IIIA helmet (Desert Tan)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5b432b965acfc47a8774094e",
+      "Name": "GSSh-01 Aktive Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5c0e625a86f7742d77340f62",
+      "Name": "BNTI Zhuk Schutzweste (Digitalflora)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 4,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.1737987+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0428\u043D\u044B\u0440\u044C",
+    "Level": 38,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "6176aca650224f204c1da3fb",
+      "Name": "HK G28 7,62x51mm Pr\u00E4zisionsgewehr",
+      "CaliberId": "58dd3ad986f77403051cba8f",
+      "Caliber": "7,62x51mm M80"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "5d67abc1a4b93614ec50137f",
+      "Name": "FN Five-seveN MK2 5,7x28mm Pistole (FDE)",
+      "CaliberId": "5cc80f67e4a949035e43bbba",
+      "Caliber": "5,7x28mm SB193"
+    },
+    "Melee": {
+      "Id": "57e26fc7245977162a14b800",
+      "Name": "Bars A-2607 95Kh18 Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5e00c1ad86f774747333222c",
+      "Name": "Team Wendy EXFIL Ballistic Helmet (Black)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5aa2ba71e5b5b000137b758f",
+      "Name": "MSA SSordin Supreme PRO-X/L Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5e9dacf986f774054d6b89f4",
+      "Name": "FORT Defender-2 Schutzweste",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 3,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.1523758+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041A\u0438\u043B\u043B\u0430\u0434\u0430",
+    "Level": 22,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5b0bbe4e5acfc40dc528a72d",
+      "Name": "DS Arms SA-58 7,62x51mm Sturmgewehr",
+      "CaliberId": "5e023e53d4353e3302577c4c",
+      "Caliber": "7,62x51mm BCP FMJ"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "6193a720f8ee7e52e42109ed",
+      "Name": "HK USP .45 ACP Pistole",
+      "CaliberId": "5e81f423763d9f754677bf2e",
+      "Caliber": ".45 ACP Match FMJ"
+    },
+    "Melee": {
+      "Id": "54491bb74bdc2d09088b4567",
+      "Name": "ER FULCRUM-Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5f60b34a41e30a4ab12a6947",
+      "Name": "Galvion Caiman Hybrid helmet (Grey)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5aa2ba71e5b5b000137b758f",
+      "Name": "MSA SSordin Supreme PRO-X/L Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5ab8e79e86f7742d8b372e78",
+      "Name": "BNTI Gzhel-K Schutzweste",
+      "FrontPlateClass": 5,
+      "BackPlateClass": null,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.1221428+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041C\u0443\u0442\u043A\u043E",
+    "Level": 35,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5bfea6e90db834001b7347f3",
+      "Name": "Remington Model 700 7,62x51mm Repetier-Scharfsch\u00FCtzengewehr",
+      "CaliberId": "5e023e53d4353e3302577c4c",
+      "Caliber": "7,62x51mm BCP FMJ"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "54491bb74bdc2d09088b4567",
+      "Name": "ER FULCRUM-Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5b40e4035acfc47a87740943",
+      "Name": "HighCom Striker ACHHC IIIA helmet (Olive Drab)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5aa2ba71e5b5b000137b758f",
+      "Name": "MSA SSordin Supreme PRO-X/L Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5d5d87f786f77427997cfaef",
+      "Name": "Ars Arma A18 Skanda Plattentr\u00E4ger (MultiCam-Farben)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": null,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.1071733+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0421\u044B\u0440\u043E\u043A",
+    "Level": 24,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5bfea6e90db834001b7347f3",
+      "Name": "Remington Model 700 7,62x51mm Repetier-Scharfsch\u00FCtzengewehr",
+      "CaliberId": "5a6086ea4f39f99cd479502f",
+      "Caliber": "7,62x51mm M61"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "54491bb74bdc2d09088b4567",
+      "Name": "ER FULCRUM-Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5e4bfc1586f774264f7582d3",
+      "Name": "MSA Gallet TC 800 High Cut Kampfhelm (Schwarz)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "628e4e576d783146b124c64d",
+      "Name": "Peltor ComTac 4 Hybrid Kopfh\u00F6rer (Kojotenbraun)"
+    },
+    "Armor": {
+      "Id": "5ca2151486f774244a3b8d30",
+      "Name": "FORT Redut-M Schutzweste",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 5,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 6
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.0954107+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0413\u0440\u0443\u0441\u0442\u043D\u044B\u0439",
+    "Level": 46,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5d43021ca4b9362eab4b5e25",
+      "Name": "Lone Star TX-15 DML 5,56x45mm Karabiner",
+      "CaliberId": "59e6906286f7746c9f75e847",
+      "Caliber": "5,56x45mm M856A1"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5b40e1525acfc4771e1c6611",
+      "Name": "HighCom Striker ULACH IIIA helmet (Black)"
+    },
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5c0e541586f7747fa54205c9",
+      "Name": "6B13 M Schutzweste (Killa-Version)",
+      "FrontPlateClass": 3,
+      "BackPlateClass": 5,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.0829111+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0412\u0430\u0441\u0451\u043A",
+    "Level": 58,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5c07c60e0db834002330051f",
+      "Name": "ADAR 2-15 5,56x45mm Karabiner",
+      "CaliberId": "60194943740c5d77f6705eea",
+      "Caliber": "5,56x45mm MK 318 Mod 0 (SOST)"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5e00c1ad86f774747333222c",
+      "Name": "Team Wendy EXFIL Ballistic Helmet (Black)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5b432b965acfc47a8774094e",
+      "Name": "GSSh-01 Aktive Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5ab8e79e86f7742d8b372e78",
+      "Name": "BNTI Gzhel-K Schutzweste",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 4,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.06936+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0421\u044B\u0440\u043E\u043A",
+    "Level": 45,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5dcbd56fdbd3d91b3e5468d5",
+      "Name": "Desert Tech MDR 7,62x51mm Sturmgewehr",
+      "CaliberId": "58dd3ad986f77403051cba8f",
+      "Caliber": "7,62x51mm M80"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "54491bb74bdc2d09088b4567",
+      "Name": "ER FULCRUM-Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5f60b34a41e30a4ab12a6947",
+      "Name": "Galvion Caiman Hybrid helmet (Grey)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5c165d832e2216398b5a7e36",
+      "Name": "Peltor Tactical Sport Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "67ab2f94dafe3b22670c912c",
+      "Name": "HighCom Trooper TFO body armor (Coyote)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.0586228+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041A\u0430\u0440\u0442\u0430\u0432\u044B\u0439",
+    "Level": 30,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5df8ce05b11454561e39243b",
+      "Name": "Knights Armament Company (KAC) SR-25 7,62x51mm Pr\u00E4zisionsgewehr",
+      "CaliberId": "5e023e53d4353e3302577c4c",
+      "Caliber": "7,62x51mm BCP FMJ"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5bffdc370db834001d23eca8",
+      "Name": "6Kh5 Bajonett",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5ac8d6885acfc400180ae7b0",
+      "Name": "Ops-Core FAST MT Super High Cut helmet (Urban Tan)"
+    },
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "628d0618d1ba6e4fa07ce5a4",
+      "Name": "NPP KlASS Bagariy Platten-Tragesystem (Digitalflora)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": null,
+      "LeftPlateClass": 5,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.0448227+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0414\u0430\u043B\u044C\u043D\u0435\u0432\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439",
+    "Level": 50,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5c07c60e0db834002330051f",
+      "Name": "ADAR 2-15 5,56x45mm Karabiner",
+      "CaliberId": "54527ac44bdc2d36668b4567",
+      "Caliber": "5,56x45mm M855A1"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5f60b34a41e30a4ab12a6947",
+      "Name": "Galvion Caiman Hybrid helmet (Grey)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5b432b965acfc47a8774094e",
+      "Name": "GSSh-01 Aktive Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "5f5f41476bdad616ad46d631",
+      "Name": "NPP KlASS Korund-VM Schutzweste (Schwarz)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 4,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.0330123+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0413\u0440\u0443\u0441\u0442\u043D\u044B\u0439",
+    "Level": 30,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5fbcc1d9016cce60e8341ab3",
+      "Name": "SIG MCX .300 Blackout Sturmgewehr",
+      "CaliberId": "6196365d58ef8c428c287da1",
+      "Caliber": ".300 Whisper"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26fc7245977162a14b800",
+      "Name": "Bars A-2607 95Kh18 Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5f60b34a41e30a4ab12a6947",
+      "Name": "Galvion Caiman Hybrid helmet (Grey)"
+    },
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5b44cad286f77402a54ae7e5",
+      "Name": "5.11 Tactical TacTec plate carrier (Ranger Green)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 5,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.0173756+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u041C\u0443\u0442\u043A\u043E",
+    "Level": 56,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "627e14b21713922ded6f2c15",
+      "Name": "Accuracy International AXMC .338 LM Repetier-Scharfsch\u00FCtzengewehr",
+      "CaliberId": "5fc275cf85fd526b824a571a",
+      "Caliber": ".338 Lapua Magnum FMJ"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "5d67abc1a4b93614ec50137f",
+      "Name": "FN Five-seveN MK2 5,7x28mm Pistole (FDE)",
+      "CaliberId": "5cc80f38e4a949001152b560",
+      "Caliber": "5,7x28mm SS190"
+    },
+    "Melee": {
+      "Id": "5bead2e00db834001c062938",
+      "Name": "MPL-50 Klappspaten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5d5e7d28a4b936645d161203",
+      "Name": "MSA ACH TC-2001 MICH Series helmet (Olive Drab)"
+    },
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "6038b4ca92ec1c3103795a0d",
+      "Name": "LBT-6094A Slick Plate Carrier (Olive Drab)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:28.0044132+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0412\u0430\u0441\u0451\u043A",
+    "Level": 47,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5dcbd56fdbd3d91b3e5468d5",
+      "Name": "Desert Tech MDR 7,62x51mm Sturmgewehr",
+      "CaliberId": "5a608bf24f39f98ffc77720e",
+      "Caliber": "7,62x51mm M62 Tracer"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5d5e7d28a4b936645d161203",
+      "Name": "MSA ACH TC-2001 MICH Series helmet (Olive Drab)"
+    },
+    "NightVision": null,
+    "EarPiece": {
+      "Id": "5c165d832e2216398b5a7e36",
+      "Name": "Peltor Tactical Sport Kopfh\u00F6rer"
+    },
+    "Armor": {
+      "Id": "67ab49aab9c7a1e18c095686",
+      "Name": "Crye Precision AVS plate carrier (MultiCam)",
+      "FrontPlateClass": 5,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.9937455+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "arenaFighterEvent",
+    "Name": "\u0414\u0430\u043B\u044C\u043D\u0435\u0432\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439",
+    "Level": 57,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5b0bbe4e5acfc40dc528a72d",
+      "Name": "DS Arms SA-58 7,62x51mm Sturmgewehr",
+      "CaliberId": "5a6086ea4f39f99cd479502f",
+      "Caliber": "7,62x51mm M61"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "57e26ea924597715ca604a09",
+      "Name": "Bars A-2607 Damascus-Messer",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": {
+      "Id": "5f60b34a41e30a4ab12a6947",
+      "Name": "Galvion Caiman Hybrid helmet (Grey)"
+    },
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "67ab2eecfe82855dcc0f2af6",
+      "Name": "Hexatac HPC Plate Carrier (MultiCam)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.982706+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 60,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "5efb0e16aeb21837e749c7ff",
+      "Caliber": "9x19mm QuakeMaker"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "602a9740da11d6478d5a06dc",
+      "Name": "Lebedev PL-15 9x19mm Pistole",
+      "CaliberId": "56d59d3ad2720bdb418b4577",
+      "Caliber": "9x19mm Pst gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.9721847+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 45,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "606587252535c57a13424cfd",
+      "Name": "CMMG Mk47 Mutant 7,62x39mm Sturmgewehr",
+      "CaliberId": "5656d7c34bdc2d9d198b4587",
+      "Caliber": "7,62x39mm PS gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.9612676+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 45,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5926bb2186f7744b1c6c6e60",
+      "Name": "HK MP5 9x19mm Maschinenpistole (Navy-Version)",
+      "CaliberId": "56d59d3ad2720bdb418b4577",
+      "Caliber": "9x19mm Pst gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.9504084+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 6,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 60,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff061d2720bb5668b4567",
+      "Caliber": "5,45x39mm BT gs"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.9399178+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 42,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "606587252535c57a13424cfd",
+      "Name": "CMMG Mk47 Mutant 7,62x39mm Sturmgewehr",
+      "CaliberId": "5656d7c34bdc2d9d198b4587",
+      "Caliber": "7,62x39mm PS gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.9293794+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 44,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5839a40f24597726f856b511",
+      "Name": "Kalashnikov AKS-74UB 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff061d2720bb5668b4567",
+      "Caliber": "5,45x39mm BT gs"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f4708ca9c4381d16cd9d",
+      "Caliber": "9x21mm 7N42 \u0022Zubilo\u0022"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.9189089+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 29,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "606587252535c57a13424cfd",
+      "Name": "CMMG Mk47 Mutant 7,62x39mm Sturmgewehr",
+      "CaliberId": "64b7af434b75259c590fa893",
+      "Caliber": "7,62x39mm PP gzh"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.9082764+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 32,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "5a26ac0ec4a28200741e1e18",
+      "Caliber": "9x21mm BT gzh"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.8972638+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 39,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5926bb2186f7744b1c6c6e60",
+      "Name": "HK MP5 9x19mm Maschinenpistole (Navy-Version)",
+      "CaliberId": "5c0d56a986f774449d5de529",
+      "Caliber": "9x19mm RIP"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f4708ca9c4381d16cd9d",
+      "Caliber": "9x21mm 7N42 \u0022Zubilo\u0022"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.8859677+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 2,
+    "PovertyBot": false,
+    "Role": "sectantPriest",
+    "Name": "\u0416\u0440\u0435\u0446",
+    "Level": 16,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "5926bb2186f7744b1c6c6e60",
+      "Name": "HK MP5 9x19mm Maschinenpistole (Navy-Version)",
+      "CaliberId": "5c925fa22e221601da359b7b",
+      "Caliber": "9x19mm AP 6.3"
+    },
+    "Secondary": null,
+    "Holster": {
+      "Id": "59f98b4986f7746f546d2cef",
+      "Name": "Serdyukov SR-1MP \u201EGyurza\u201C 9x21mm Pistole",
+      "CaliberId": "6576f93989f0062e741ba952",
+      "Caliber": "9x21mm 7U4"
+    },
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": null
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.8776008+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 2,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 19,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 3,
+    "Primary": {
+      "Id": "59d6088586f774275f37482f",
+      "Name": "Kalashnikov \u0410\u041AM 7,62x39mm Sturmgewehr",
+      "CaliberId": "59e0d99486f7744a32234762",
+      "Caliber": "7,62x39mm BP gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5c0e625a86f7742d77340f62",
+      "Name": "BNTI Zhuk Schutzweste (Digitalflora)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 4,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.8691313+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 4,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 40,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "59d6088586f774275f37482f",
+      "Name": "Kalashnikov \u0410\u041AM 7,62x39mm Sturmgewehr",
+      "CaliberId": "64b7af434b75259c590fa893",
+      "Caliber": "7,62x39mm PP gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "63737f448b28897f2802b874",
+      "Name": "Hexatac HPC Plate Carrier (MultiCam Black)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 4,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.8600749+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 30,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "59d6088586f774275f37482f",
+      "Name": "Kalashnikov \u0410\u041AM 7,62x39mm Sturmgewehr",
+      "CaliberId": "64b7af434b75259c590fa893",
+      "Caliber": "7,62x39mm PP gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5ca2151486f774244a3b8d30",
+      "Name": "FORT Redut-M Schutzweste",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 5,
+      "LeftPlateClass": 5,
+      "RightPlateClass": 5
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.8382493+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 27,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "6499849fc93611967b034949",
+      "Name": "Kalashnikov AK-12 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dfef82d2720bbd668b4567",
+      "Caliber": "5,45x39mm BP gs"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5ab8e79e86f7742d8b372e78",
+      "Name": "BNTI Gzhel-K Schutzweste",
+      "FrontPlateClass": null,
+      "BackPlateClass": 4,
+      "LeftPlateClass": 5,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.8301825+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 30,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "58948c8e86f77409493f7266",
+      "Name": "SIG MPX 9x19mm Maschinenpistole",
+      "CaliberId": "5c0d56a986f774449d5de529",
+      "Caliber": "9x19mm RIP"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "60a621c49c197e4e8c4455e6",
+      "Name": "Stich Profi Chest Rig MK2 (Assault, A-TACS FG)",
+      "FrontPlateClass": null,
+      "BackPlateClass": null,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.821982+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 22,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 3,
+    "Primary": {
+      "Id": "5e00903ae9dc277128008b87",
+      "Name": "B\u0026T MP9 9x19mm Maschinenpistole",
+      "CaliberId": "56d59d3ad2720bdb418b4577",
+      "Caliber": "9x19mm Pst gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5c0e655586f774045612eeb2",
+      "Name": "HighCom Trooper TFO body armor (MultiCam)",
+      "FrontPlateClass": 4,
+      "BackPlateClass": 5,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.8131935+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 44,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "5a0ec13bfcdbcb00165aa685",
+      "Name": "Kalashnikov AKMN 7,62x39mm Sturmgewehr",
+      "CaliberId": "59e0d99486f7744a32234762",
+      "Caliber": "7,62x39mm BP gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5e4abb5086f77406975c9342",
+      "Name": "LBT 6094A Slick Plattentr\u00E4ger (Schwarz)",
+      "FrontPlateClass": 3,
+      "BackPlateClass": 3,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.8048513+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 41,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 2,
+    "Primary": {
+      "Id": "583990e32459771419544dd2",
+      "Name": "Kalashnikov AKS-74UN 5,45x39mm Sturmgewehr",
+      "CaliberId": "56dff2ced2720bb4668b4567",
+      "Caliber": "5,45x39mm PP gs"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "67ab2f94dafe3b22670c912c",
+      "Name": "HighCom Trooper TFO body armor (Coyote)",
+      "FrontPlateClass": null,
+      "BackPlateClass": 3,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.7673494+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 3,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 29,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 0,
+    "Primary": {
+      "Id": "5c46fbd72e2216398b5a8c9c",
+      "Name": "SVDS 7,62x54mm R Scharfsch\u00FCtzengewehr",
+      "CaliberId": "59e77a2386f7742ee578960a",
+      "Caliber": "7,62x54mm R PS gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "60a6220e953894617404b00a",
+      "Name": "Stich Profi Chest Rig MK2 (Recon, A-TACS FG)",
+      "FrontPlateClass": null,
+      "BackPlateClass": null,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  },
+  {
+    "Timestamp": "2026-11-08T17:36:27.7521948+01:00",
+    "BotType": 4,
+    "IsApbsBot": true,
+    "Tier": 5,
+    "PovertyBot": false,
+    "Role": "sectantWarrior",
+    "Name": "\u0421\u0435\u043A\u0442\u0430\u043D\u0442",
+    "Level": 49,
+    "Difficulty": "normal",
+    "GameVersion": null,
+    "PrestigeLevel": 0,
+    "DogTagId": null,
+    "GrenadeCount": 1,
+    "Primary": {
+      "Id": "574d967124597745970e7c94",
+      "Name": "TOZ Simonov SKS 7,62x39mm Karabiner",
+      "CaliberId": "59e0d99486f7744a32234762",
+      "Caliber": "7,62x39mm BP gzh"
+    },
+    "Secondary": null,
+    "Holster": null,
+    "Melee": {
+      "Id": "5fc64ea372b0dd78d51159dc",
+      "Name": "Klinge der Kultisten",
+      "CaliberId": null,
+      "Caliber": null
+    },
+    "Helmet": null,
+    "NightVision": null,
+    "EarPiece": null,
+    "Armor": {
+      "Id": "5fd4c474dd870108a754b241",
+      "Name": "5.11 Tactical Hexgrid plate carrier",
+      "FrontPlateClass": null,
+      "BackPlateClass": null,
+      "LeftPlateClass": null,
+      "RightPlateClass": null
+    }
+  }
+]
