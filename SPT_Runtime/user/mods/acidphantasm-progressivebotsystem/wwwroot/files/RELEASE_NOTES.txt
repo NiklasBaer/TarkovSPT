@@ -1,0 +1,9 @@
+### **This version will only work for SPT ~4.1.0+**
+
+Changes
+- Moved Loose Ammo chances and limits to the WebConfig for people who run massive ammo stack sizes
+- Added entry limits on new bot generation json since they no longer delete on server start
+
+Bugs Squashed
+- Resolved mod clothing import not functioning properly
+
