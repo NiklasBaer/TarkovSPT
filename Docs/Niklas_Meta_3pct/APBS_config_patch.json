@@ -1,0 +1,23 @@
+{
+  "usePreset": true,
+  "presetName": "Niklas_Meta_3pct",
+  "generalConfig": {
+    "enablePerWeaponTypeAttachmentChances": true,
+    "forceMuzzle": true,
+    "muzzleChance": [
+      10,
+      25,
+      40,
+      70,
+      85,
+      90,
+      95
+    ],
+    "forceChildrenMuzzle": true,
+    "forceWeaponModLimits": true,
+    "scopeLimit": 2,
+    "tacticalLimit": 1,
+    "forceScopeSlot": false,
+    "enableT7Thermals": false
+  }
+}
