@@ -1,0 +1,175 @@
+{
+  "format": "gravity-raid-report",
+  "version": "1.0.4",
+  "at": "2026-11-13T19:41:30.1885497+01:00",
+  "layout": "original",
+  "summary": "factory4_day raid 20min (start 0s) style start PMC start 8 (5 groups) \u002B waves 0 groups (0) scav waves 1 (up to 4) seed 1552735806 / gear: mod items 18 weapons \u00B7 30 gear \u00B7 150 attachments",
+  "plan": {
+    "mapId": "factory4_day",
+    "raidSec": 1200,
+    "simStartSec": 0,
+    "seed": 1552735806,
+    "style": "start",
+    "groups": [
+      {
+        "timeSec": 1,
+        "usec": true,
+        "size": 1,
+        "difficulty": "normal",
+        "isStart": true
+      },
+      {
+        "timeSec": 2,
+        "usec": true,
+        "size": 3,
+        "difficulty": "normal",
+        "isStart": true
+      },
+      {
+        "timeSec": 2,
+        "usec": false,
+        "size": 1,
+        "difficulty": "normal",
+        "isStart": true
+      },
+      {
+        "timeSec": 3,
+        "usec": true,
+        "size": 2,
+        "difficulty": "normal",
+        "isStart": true
+      },
+      {
+        "timeSec": 5,
+        "usec": true,
+        "size": 1,
+        "difficulty": "easy",
+        "isStart": true
+      }
+    ],
+    "scavWaves": [
+      {
+        "timeMinSec": 120,
+        "timeMaxSec": 120,
+        "slotsMin": 4,
+        "slotsMax": 4,
+        "isStart": true
+      }
+    ],
+    "botCap": 14,
+    "droppedPmcs": 0,
+    "pmcTotal": 8,
+    "startPmcs": 8,
+    "summary": "factory4_day raid 20min (start 0s) style start PMC start 8 (5 groups) \u002B waves 0 groups (0) scav waves 1 (up to 4) seed 1552735806"
+  },
+  "report": {
+    "mapId": "factory4_day",
+    "seed": 1552735806,
+    "spawned": {
+      "pmcUSEC": 7,
+      "pmcBEAR": 1,
+      "assault": 9,
+      "near": 0
+    },
+    "dropped": {
+      "noPoint": 0,
+      "expired": 0,
+      "groupCap": 0,
+      "cap": 0,
+      "scavCap": 0,
+      "nearCap": 0
+    },
+    "sanitized": 0,
+    "alivePerMinute": [
+      [
+        0,
+        8,
+        0,
+        8
+      ],
+      [
+        1,
+        7,
+        0,
+        7
+      ],
+      [
+        2,
+        4,
+        0,
+        4
+      ],
+      [
+        3,
+        3,
+        4,
+        7
+      ],
+      [
+        4,
+        1,
+        4,
+        5
+      ],
+      [
+        5,
+        0,
+        4,
+        4
+      ],
+      [
+        6,
+        0,
+        5,
+        5
+      ],
+      [
+        7,
+        0,
+        4,
+        4
+      ],
+      [
+        8,
+        0,
+        3,
+        3
+      ],
+      [
+        9,
+        0,
+        2,
+        2
+      ],
+      [
+        10,
+        0,
+        3,
+        3
+      ],
+      [
+        11,
+        0,
+        3,
+        3
+      ]
+    ],
+    "killed": {
+      "pmcUSEC": 7,
+      "pmcBEAR": 1,
+      "assault": 10,
+      "marksman": 0,
+      "boss": 0,
+      "other": 0
+    },
+    "extracted": {
+      "pmcUSEC": 0,
+      "pmcBEAR": 0,
+      "assault": 0,
+      "marksman": 0,
+      "boss": 0,
+      "other": 0
+    },
+    "extractRefill": 0
+  }
+}

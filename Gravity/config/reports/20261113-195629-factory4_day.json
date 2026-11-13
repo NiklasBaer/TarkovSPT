@@ -1,0 +1,129 @@
+{
+  "format": "gravity-raid-report",
+  "version": "1.0.4",
+  "at": "2026-11-13T19:56:29.3093616+01:00",
+  "layout": "original",
+  "summary": "factory4_day raid 20min (start 0s) style start PMC start 4 (1 groups) \u002B waves 0 groups (0) scav waves 1 (up to 4) seed 977559098 / BlackDiv: hunters 100% x3 / gear: mod items 18 weapons \u00B7 30 gear \u00B7 150 attachments",
+  "plan": {
+    "mapId": "factory4_day",
+    "raidSec": 1200,
+    "simStartSec": 0,
+    "seed": 977559098,
+    "style": "start",
+    "groups": [
+      {
+        "timeSec": 2,
+        "usec": true,
+        "size": 4,
+        "difficulty": "hard",
+        "isStart": true
+      }
+    ],
+    "scavWaves": [
+      {
+        "timeMinSec": 120,
+        "timeMaxSec": 120,
+        "slotsMin": 4,
+        "slotsMax": 4,
+        "isStart": true
+      }
+    ],
+    "botCap": 14,
+    "droppedPmcs": 0,
+    "pmcTotal": 4,
+    "startPmcs": 4,
+    "summary": "factory4_day raid 20min (start 0s) style start PMC start 4 (1 groups) \u002B waves 0 groups (0) scav waves 1 (up to 4) seed 977559098"
+  },
+  "report": {
+    "mapId": "factory4_day",
+    "seed": 977559098,
+    "spawned": {
+      "pmcUSEC": 4,
+      "pmcBEAR": 0,
+      "assault": 5,
+      "near": 0
+    },
+    "dropped": {
+      "noPoint": 0,
+      "expired": 0,
+      "groupCap": 0,
+      "cap": 0,
+      "scavCap": 0,
+      "nearCap": 0
+    },
+    "sanitized": 0,
+    "alivePerMinute": [
+      [
+        0,
+        4,
+        0,
+        5
+      ],
+      [
+        1,
+        4,
+        0,
+        5
+      ],
+      [
+        2,
+        4,
+        0,
+        4
+      ],
+      [
+        3,
+        3,
+        3,
+        6
+      ],
+      [
+        4,
+        2,
+        3,
+        5
+      ],
+      [
+        5,
+        0,
+        2,
+        2
+      ],
+      [
+        6,
+        0,
+        2,
+        5
+      ],
+      [
+        7,
+        0,
+        1,
+        3
+      ],
+      [
+        8,
+        0,
+        1,
+        1
+      ]
+    ],
+    "killed": {
+      "pmcUSEC": 4,
+      "pmcBEAR": 0,
+      "assault": 7,
+      "marksman": 0,
+      "boss": 4,
+      "other": 0
+    },
+    "extracted": {
+      "pmcUSEC": 0,
+      "pmcBEAR": 0,
+      "assault": 0,
+      "marksman": 0,
+      "boss": 0,
+      "other": 0
+    },
+    "extractRefill": 0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "format": "gravity-raid-report",
+  "version": "1.0.4",
+  "at": "2026-11-13T18:53:29.0056425+01:00",
+  "layout": "original",
+  "summary": "factory4_day raid 20min (start 300s) style waves PMC start 0 (0 groups) \u002B waves 1 groups (2) scavs vanilla seed 83676133 / scav raid: kept 1 of 2 PMC groups (60%) / gear: mod items 18 weapons \u00B7 30 gear \u00B7 150 attachments",
+  "plan": {
+    "mapId": "factory4_day",
+    "raidSec": 1200,
+    "simStartSec": 300,
+    "seed": 83676133,
+    "style": "waves",
+    "groups": [
+      {
+        "timeSec": 304,
+        "usec": false,
+        "size": 2,
+        "difficulty": "hard",
+        "isStart": false
+      }
+    ],
+    "scavWaves": [],
+    "botCap": 14,
+    "droppedPmcs": 0,
+    "pmcTotal": 2,
+    "startPmcs": 0,
+    "summary": "factory4_day raid 20min (start 300s) style waves PMC start 0 (0 groups) \u002B waves 1 groups (2) scavs vanilla seed 83676133"
+  },
+  "report": {
+    "mapId": "factory4_day",
+    "seed": 83676133,
+    "spawned": {
+      "pmcUSEC": 0,
+      "pmcBEAR": 0,
+      "assault": 0,
+      "near": 0
+    },
+    "dropped": {
+      "noPoint": 0,
+      "expired": 0,
+      "groupCap": 0,
+      "cap": 0,
+      "scavCap": 0,
+      "nearCap": 0
+    },
+    "sanitized": 0,
+    "alivePerMinute": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ]
+    ],
+    "killed": {
+      "pmcUSEC": 0,
+      "pmcBEAR": 0,
+      "assault": 0,
+      "marksman": 0,
+      "boss": 0,
+      "other": 0
+    },
+    "extracted": {
+      "pmcUSEC": 0,
+      "pmcBEAR": 0,
+      "assault": 0,
+      "marksman": 0,
+      "boss": 0,
+      "other": 0
+    },
+    "extractRefill": 0
+  }
+}
